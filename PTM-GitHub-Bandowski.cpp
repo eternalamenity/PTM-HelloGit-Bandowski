@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello " << ;
-	cout << "Github!" << endl;
+	cout << "Hello Git" << endl;
+	cout << "Ja, Szymon Bandowski jestem pierwszym autorem tego programu" << endl;
 	system("pause");
 	return 0;
 }
