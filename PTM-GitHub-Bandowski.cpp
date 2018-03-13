@@ -3,7 +3,8 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello GitHub!" << endl;
+	cout << "Hello " << ;
+	cout << "Github!" << endl;
 	system("pause");
 	return 0;
 }
